@@ -20,7 +20,7 @@ install_requires = [
     'mnemonic==0.13',
     'path.py',
     'pexpect',
-    'protobuf==3.0.0a3',
+    'protobuf==4.24.3',
     'pyaes',
     'pytest',
     'pyyaml',
